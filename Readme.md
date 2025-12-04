@@ -11,7 +11,7 @@
 
 ---
 
-## ⚙️ Preprocessing
+## Preprocessing
 
 For each image, I did:
 
